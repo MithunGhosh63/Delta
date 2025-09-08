@@ -1,2 +1,2 @@
 # Delta
-Learning Phase
+Learning Phase...
